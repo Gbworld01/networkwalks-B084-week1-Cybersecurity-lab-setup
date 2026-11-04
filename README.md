@@ -122,8 +122,8 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-![]([<img width="1366" height="768" alt="WhatsApp Image 2026-11-02 at 00 06 29" src="https://github.com/user-attachments/assets/cd86cb0a-4ecb-4b08-975e-8c80acbfa02d" />](https://github.com/Gbworld01/networkwalks-B084-week1-Cybersecurity-lab-setup/blob/main/Network.jpeg?raw=true)
-)
+([<img width="1366" height="768" alt="WhatsApp Image 2026-11-02 at 00 06 29" src="https://github.com/user-attachments/assets/cd86cb0a-4ecb-4b08-975e-8c80acbfa02d" />](https://github.com/Gbworld01/networkwalks-B084-week1-Cybersecurity-lab-setup/blob/main/Network.jpeg?raw=true)
+
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
