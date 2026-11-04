@@ -309,10 +309,10 @@ This laboratory is intended strictly for education purposes only.
 
 # 👤 Author
 
-**Waqas Karim**\
-Cybersecurity Professional B082
+**Abdulrahamon (Adebowale) Gbadebo**\
+Cybersecurity Professional B084
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
+LinkedIn: [www.linkedin.com/in/abdulrahamon-gbadebo-607ab3382](www.linkedin.com/in/abdulrahamon-gbadebo-607ab3382)
 
 ---
 
