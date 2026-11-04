@@ -150,8 +150,8 @@ The VM was allocated:
 ```text
 RAM: 2048 MB
 ```
-![](<img width="1366" height="654" alt="WhatsApp Image 2026-11-02 at 00 14 13" src="https://github.com/user-attachments/assets/bdd446c8-a01c-40f4-a4a6-b4f38596d058" />
-)
+[<img width="1366" height="654" alt="WhatsApp Image 2026-11-02 at 00 14 13" src="https://github.com/user-attachments/assets/bdd446c8-a01c-40f4-a4a6-b4f38596d058" />](https://github.com/Gbworld01/networkwalks-B084-week1-Cybersecurity-lab-setup/blob/main/Interface.jpeg?raw=true)
+
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
 
 
