@@ -173,8 +173,8 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![](<img width="1280" height="596" alt="WhatsApp Image 2026-11-02 at 00 20 32" src="https://github.com/user-attachments/assets/a0954e30-6562-4251-ab7e-2eba2d226b0c" />
-)
+[<img width="1280" height="596" alt="WhatsApp Image 2026-11-02 at 00 20 32" src="https://github.com/user-attachments/assets/a0954e30-6562-4251-ab7e-2eba2d226b0c" />](https://github.com/Gbworld01/networkwalks-B084-week1-Cybersecurity-lab-setup/blob/main/network%20interface.jpeg?raw=true)
+
 
 ---
 
