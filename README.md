@@ -69,8 +69,8 @@ It can be used for activities such as:
 
 ## 🏗️ Lab Architecture
 
-![]([<img width="2720" height="1640" alt="virtualbox_nat_lab_topology" src="https://github.com/user-attachments/assets/0458b08c-fcfc-488a-b22c-f6049eaf8f8d" />](https://github.com/Gbworld01/networkwalks-B084-week1-Cybersecurity-lab-setup/blob/main/network%20interface.jpeg?raw=true)
-)
+([<img width="2720" height="1640" alt="virtualbox_nat_lab_topology" src="https://github.com/user-attachments/assets/0458b08c-fcfc-488a-b22c-f6049eaf8f8d" />](https://github.com/Gbworld01/networkwalks-B084-week1-Cybersecurity-lab-setup/blob/main/network%20interface.jpeg?raw=true)
+
 
 
 Additional target machines can be added to the same virtual network in future projects.
